@@ -1,0 +1,36 @@
+C:\Users\Stefa\Desktop\testetesertje\Datatestje\Datatestje\bin\Debug\Datatestje.exe.config
+C:\Users\Stefa\Desktop\testetesertje\Datatestje\Datatestje\bin\Debug\Datatestje.exe
+C:\Users\Stefa\Desktop\testetesertje\Datatestje\Datatestje\bin\Debug\Datatestje.pdb
+C:\Users\Stefa\Desktop\testetesertje\Datatestje\Datatestje\obj\Debug\Datatestje.csprojAssemblyReference.cache
+C:\Users\Stefa\Desktop\testetesertje\Datatestje\Datatestje\obj\Debug\Datatestje.Form1.resources
+C:\Users\Stefa\Desktop\testetesertje\Datatestje\Datatestje\obj\Debug\Datatestje.Properties.Resources.resources
+C:\Users\Stefa\Desktop\testetesertje\Datatestje\Datatestje\obj\Debug\Datatestje.csproj.GenerateResource.cache
+C:\Users\Stefa\Desktop\testetesertje\Datatestje\Datatestje\obj\Debug\Datatestje.exe
+C:\Users\Stefa\Desktop\testetesertje\Datatestje\Datatestje\obj\Debug\Datatestje.pdb
+C:\Users\Stefa\Desktop\Data Exporter\Datatestje\Datatestje\bin\Debug\Datatestje.exe.config
+C:\Users\Stefa\Desktop\Data Exporter\Datatestje\Datatestje\bin\Debug\Datatestje.exe
+C:\Users\Stefa\Desktop\Data Exporter\Datatestje\Datatestje\bin\Debug\Datatestje.pdb
+C:\Users\Stefa\Desktop\Data Exporter\Datatestje\Datatestje\obj\Debug\Datatestje.csprojAssemblyReference.cache
+C:\Users\Stefa\Desktop\Data Exporter\Datatestje\Datatestje\obj\Debug\Datatestje.Form1.resources
+C:\Users\Stefa\Desktop\Data Exporter\Datatestje\Datatestje\obj\Debug\Datatestje.Properties.Resources.resources
+C:\Users\Stefa\Desktop\Data Exporter\Datatestje\Datatestje\obj\Debug\Datatestje.csproj.GenerateResource.cache
+C:\Users\Stefa\Desktop\Data Exporter\Datatestje\Datatestje\obj\Debug\Datatestje.exe
+C:\Users\Stefa\Desktop\Data Exporter\Datatestje\Datatestje\obj\Debug\Datatestje.pdb
+D:\Meine Codes\Data Exporter\Datatestje\Datatestje\bin\Debug\Datatestje.exe.config
+D:\Meine Codes\Data Exporter\Datatestje\Datatestje\bin\Debug\Datatestje.exe
+D:\Meine Codes\Data Exporter\Datatestje\Datatestje\bin\Debug\Datatestje.pdb
+D:\Meine Codes\Data Exporter\Datatestje\Datatestje\obj\Debug\Datatestje.Form1.resources
+D:\Meine Codes\Data Exporter\Datatestje\Datatestje\obj\Debug\Datatestje.Properties.Resources.resources
+D:\Meine Codes\Data Exporter\Datatestje\Datatestje\obj\Debug\Datatestje.csproj.GenerateResource.cache
+D:\Meine Codes\Data Exporter\Datatestje\Datatestje\obj\Debug\Datatestje.exe
+D:\Meine Codes\Data Exporter\Datatestje\Datatestje\obj\Debug\Datatestje.pdb
+D:\Meine Codes\Data Exporter\Datatestje\Datatestje\obj\Debug\Datatestje.csprojAssemblyReference.cache
+D:\Meine Codes\Data Converter\Datatestje\Datatestje\bin\Debug\Datatestje.exe.config
+D:\Meine Codes\Data Converter\Datatestje\Datatestje\bin\Debug\Datatestje.exe
+D:\Meine Codes\Data Converter\Datatestje\Datatestje\bin\Debug\Datatestje.pdb
+D:\Meine Codes\Data Converter\Datatestje\Datatestje\obj\Debug\Datatestje.csprojAssemblyReference.cache
+D:\Meine Codes\Data Converter\Datatestje\Datatestje\obj\Debug\Datatestje.Form1.resources
+D:\Meine Codes\Data Converter\Datatestje\Datatestje\obj\Debug\Datatestje.Properties.Resources.resources
+D:\Meine Codes\Data Converter\Datatestje\Datatestje\obj\Debug\Datatestje.csproj.GenerateResource.cache
+D:\Meine Codes\Data Converter\Datatestje\Datatestje\obj\Debug\Datatestje.exe
+D:\Meine Codes\Data Converter\Datatestje\Datatestje\obj\Debug\Datatestje.pdb
